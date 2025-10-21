@@ -1,2 +1,2 @@
 # hello-world
-only for study repository
+This project is for only study purpose
